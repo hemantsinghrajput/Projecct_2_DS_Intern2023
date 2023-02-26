@@ -5,7 +5,7 @@ from matplotlib import image
 st.title(":red[Innomatics] Data App")
 st.header(":blue[Hemant Rajput]- Data Science Enthusiast")
 #st.snow()
-img = image.imread('./resources/images/hemant.jpg')
+img = image.imread('./proj_2/resources/images/hemant.jpg')
 
 btn_click = st.button("Click Me! to see my Dashboard")
 
